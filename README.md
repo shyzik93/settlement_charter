@@ -26,6 +26,8 @@ This is example of a venus settlement's charter. You should adapt this of the ch
 
 В социализме:
 
+В Проекте Венера:
+
 ## Структура поселения
 
 Поселение состоит из следующих функциональных блоков:
