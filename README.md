@@ -1,10 +1,11 @@
-# CHARTER
+# Устав
 
-## Contents
+## Содержание
 
-1. Description
+1. Предисловие
 
-## Description
+## Предисловие
 
 This is example of a venus settlement's charter. You should adapt this of the charte 
+Это пример устава для поселения ПВ. Данный устав следует адаптировать под юрисдикцию конкретного государства.
 
